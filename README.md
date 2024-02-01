@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Peterson Couto 👋
 
-- 🔭 Hoje Trabalho em desenvolver projetos Front-end junto a escola DNC
+- 🔭 Hoje Trabalho em desenvolver projetos Front-end como estudante junto a escola DNC
 - 🌱 Estou estudando as tecnologias Front-End
 - 📫 E-Mail: peterson_fernando16@hotmail.com
 - 📞 Phone:(19) 99195-5915
