@@ -22,8 +22,6 @@
   <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 
 </div>
-
-  ##
   
 <br>
   <div><h1>Redes Sociais.</h1><br>
