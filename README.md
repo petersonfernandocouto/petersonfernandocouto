@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Peterson Couto 👋
 
-- 🔭 Hoje trabalho desenvolvendo projetos freelancer como Front-end.
-- 🌱 Estou estudando as tecnologias Front-End
+- 🔭 Hoje trabalho desenvolvendo projetos para sites como Growth, Nutrimais, Sunprotect, webcontinental, WebcoFitness, Gallantoficial, Loja Do Bebedouro.
 - 📫 E-Mail: peterson_fernando16@hotmail.com
 - 📞 Phone:(19) 99195-5915
 <br>
