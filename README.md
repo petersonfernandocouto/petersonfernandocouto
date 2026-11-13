@@ -10,13 +10,14 @@
 - 📫 E-Mail: peterson_fernando16@hotmail.com
 - 📞 Phone:(19) 99195-5915
 <br>
-  <div>
-    <a href="https://github.com/petersonfernandocouto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petersonfernandocouto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonfernandocouto&layout=compact&langs_count=16&theme=transparent"/>
-  </div>
 
-  <div style="display: inline_block"> 
+<div>
+  <a href="https://github.com/petersonfernandocouto">
+    <img src="metrics.languages.svg" alt="Linguagens que já usei"/>
+  </a>
+</div>
+
+<div style="display: inline_block">
   <h1>Habilidades</h1><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,15 +27,12 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
   <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Rafa-Liquid" src="https://img.shields.io/badge/-Liquid-%237AB55C?style=for-the-badge&logo=shopify&logoColor=white">
-
-
+  <img align="center" alt="Rafa-Shopify-Liquid" height="30" width="40" src="https://cdn.simpleicons.org/shopify">
 </div>
-  
+
 <br>
-  <div><h1>Redes Sociais.</h1><br>
-    <a href="https://instagram.com/petersonfernando17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-    target="_blank"></a>
-    <a href="https://www.linkedin.com/in/peterson-fernando-6b3709133" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
- 
+<div>
+  <h1>Redes Sociais.</h1><br>
+  <a href="https://instagram.com/petersonfernando17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/peterson-fernando-6b3709133" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
