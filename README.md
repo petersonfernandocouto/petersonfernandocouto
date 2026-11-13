@@ -26,6 +26,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
   <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Rafa-Liquid" src="https://img.shields.io/badge/-Liquid-%237AB55C?style=for-the-badge&logo=shopify&logoColor=white">
+
 
 </div>
   
