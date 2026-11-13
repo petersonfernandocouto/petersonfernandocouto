@@ -1,4 +1,3 @@
-
 name: Metrics
 
 on:
@@ -18,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           repositories_affiliations: owner, collaborator, organization_member
+          commits_authoring: petersonfernandocouto, Peterson Couto, peterson_fernando16@hotmail.com
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
