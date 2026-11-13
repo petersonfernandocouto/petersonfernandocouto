@@ -19,7 +19,7 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: petersonfernandocouto, Peterson Couto, peterson_fernando16@hotmail.com
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           config_timezone: America/Sao_Paulo
